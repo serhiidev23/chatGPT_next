@@ -1,0 +1,12 @@
+<svg width="25" height="25" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="mingcute:layout-left-line" clip-path="url(#clip0_59_665)">
+<g id="Group">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M6.66667 4C5.95942 4 5.28115 4.28095 4.78105 4.78105C4.28095 5.28115 4 5.95942 4 6.66667V25.3333C4 26.0406 4.28095 26.7189 4.78105 27.219C5.28115 27.719 5.95942 28 6.66667 28H25.3333C26.0406 28 26.7189 27.719 27.219 27.219C27.719 26.7189 28 26.0406 28 25.3333V6.66667C28 5.95942 27.719 5.28115 27.219 4.78105C26.7189 4.28095 26.0406 4 25.3333 4H6.66667ZM13.3333 6.66667H25.3333V25.3333H13.3333V6.66667ZM10.6667 6.66667H6.66667V25.3333H10.6667V6.66667Z" fill="white"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_59_665">
+<rect width="32" height="32" fill="white"/>
+</clipPath>
+</defs>
+</svg>
